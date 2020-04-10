@@ -2,13 +2,12 @@
 
 A Flutter package for easy implementation of navigation bar with infinity of pages.
 
-## Author: [CHAHBOUN Mohammed](https://github.com/ourflutter), [CHAHBOUN Ismail](https://github.com/zakatknowledge)
+## Authors: [CHAHBOUN Mohammed](https://github.com/ourflutter), [CHAHBOUN Ismail](https://github.com/zakatknowledge)
 
 
 [![Pub](https://img.shields.io/pub/v/navigationbar_bro.svg)](https://pub.dartlang.org/packages/navigationbar_bro)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Gif](https://github.com/ourflutter/navigationbar_bro/blob/master/bottom_bar.gif "bottom position")
-![Gif](https://github.com/ourflutter/navigationbar_bro/blob/master/left_bar.gif "left position")
+![Gif](https://github.com/ourflutter/navigationbar_bro/blob/master/bottom_bar.gif "bottom position")![Gif](https://github.com/ourflutter/navigationbar_bro/blob/master/left_bar.gif "left position")
 ## Getting Started
 
 In your flutter project, add the dependency to your `pubspec.yaml`

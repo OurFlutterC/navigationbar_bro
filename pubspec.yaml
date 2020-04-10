@@ -1,8 +1,10 @@
 name: navigationbar_bro
 description: A Flutter package for easy implementation of navigation bar with infinity of pages.
 version: 0.0.1
-author: CHAHBOUN Mohammed And CHAHBOUN Ismail
-homepage: 
+authors: 
+- CHAHBOUN Mohammed
+- CHAHBOUN Ismail
+homepage: https://github.com/ourflutter/navigationbar_bro
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
