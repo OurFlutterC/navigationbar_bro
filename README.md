@@ -33,7 +33,7 @@ NavigationBarBro(
     ],
     position:PositionBar.top, //PositionBar.left, PositionBar.bottom or PositionBar.right (choose the position of navigation bar)
     colorSelectBtn: Colors.white, //Color of select button
-    colorAllBtn:Colors.grey, //Colors of others button
+    colorAllBtn:Colors.grey, //Color of others button
     opacityBar:0.5, //oppacity of buttons bar (0.0 to 1.0)
     btnBarRadius:BorderRadius.only(bottomLeft: Radius.circular(40.0), topRight: Radius.circular(40.0)), //Radius of buttons bar
 )
